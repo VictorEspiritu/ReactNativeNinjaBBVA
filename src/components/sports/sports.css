@@ -1,0 +1,11 @@
+.sports-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px 1px 1px re;
+}
+
+.sport {
+  display: flex;
+  flex-direction: column;
+  border: 1px 1px 1px red;
+}

@@ -1,2 +1,2 @@
-# ReactNativeNinjaBBVA
+# ReactNinja
 Created with CodeSandbox
